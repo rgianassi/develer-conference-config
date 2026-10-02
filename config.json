@@ -308,20 +308,45 @@
           ],
           [
             {
-              "bold": "• Aurélien Rainone"
+              "bold": "Matteo Bertini"
             },
-            " • ",
+            "Programming has been a passion since the days of his first computer, a 386DX-40 (in economics, it was in a cardboard box)."
+          ],
+          [
+            "He started by editing gorilla.bas, then he switched from Visual Basic, PHP, and Java to get to Python. He is now on an R&D team working on optimization algorithms."
+          ],
+          [
+            "Finding patterns and beautiful architectures in the software remains his passion, and also experimenting with new languages (Rust and Elm currently)."
+          ],
+          [
             {
-              "bold": "Tommaso Visconti"
+              "bold": "Pietro Lorefice"
             },
-            " • ",
+            "Embedded software developer with a soft spot for bare metal and OS programming, firmware development and real-time systems, and a lifelong interest in electronics and FPGA design."
+          ],
+          [
             {
-              "bold": "Lorenzo Masini"
+              "bold": "Aurélien Rainone"
             },
-            " • ",
+            "Aurélien loves science, travel, comics, and science fiction books. In the field of programming, he enjoys contributing to the world of open-source and writing clean, readable, and elegant code."
+          ],
+          [
+            "His philosophy can be summed up in two aphorisms:"
+          ],
+          [
+            "“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry"
+          ],
+          [
+            "“The perfect is the enemy of the good.” – Voltaire"
+          ],
+          [
+            "Aurélien also serves as a tutor for the Go, C++ modern, and C++ advanced courses."
+          ],
+          [
             {
-              "bold": "Marco Lucidi"
-            }
+              "bold": "Federico Guerinoni"
+            },
+            "I'm a software developer (or engineer if you like) using Go, Rust, C, C ++. I'm an enthusiast of TDD and BDD techniques and CI / CD. My daily plan is to study something or create something to get me on the edge with technologies, methods and feel that my knowledge advance. I believe that a developer is a role that continues to evolve himself to keep his passion high. I'm also very involved on open-source projects and community activities in many programming languages and different size scale of project."
           ]
         ]
       },
@@ -333,24 +358,45 @@
           ],
           [
             {
-              "bold": "• Pietro Lorefice"
+              "bold": "Matteo Bertini"
             },
-            " • ",
+            "Programming has been a passion since the days of his first computer, a 386DX-40 (in economics, it was in a cardboard box)."
+          ],
+          [
+            "He started by editing gorilla.bas, then he switched from Visual Basic, PHP, and Java to get to Python. He is now on an R&D team working on optimization algorithms."
+          ],
+          [
+            "Finding patterns and beautiful architectures in the software remains his passion, and also experimenting with new languages (Rust and Elm currently)."
+          ],
+          [
             {
-              "bold": "Daniele D'Orazio"
+              "bold": "Pietro Lorefice"
             },
-            " • ",
+            "Embedded software developer with a soft spot for bare metal and OS programming, firmware development and real-time systems, and a lifelong interest in electronics and FPGA design."
+          ],
+          [
             {
-              "bold": "Daniele Basile"
+              "bold": "Aurélien Rainone"
             },
-            " • ",
+            "Aurélien loves science, travel, comics, and science fiction books. In the field of programming, he enjoys contributing to the world of open-source and writing clean, readable, and elegant code."
+          ],
+          [
+            "His philosophy can be summed up in two aphorisms:"
+          ],
+          [
+            "“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry"
+          ],
+          [
+            "“The perfect is the enemy of the good.” – Voltaire"
+          ],
+          [
+            "Aurélien also serves as a tutor for the Go, C++ modern, and C++ advanced courses."
+          ],
+          [
             {
-              "bold": "Giuseppe Chiarella"
+              "bold": "Federico Guerinoni"
             },
-            " • ",
-            {
-              "bold": "Marco Meloni"
-            }
+            "I'm a software developer (or engineer if you like) using Go, Rust, C, C ++. I'm an enthusiast of TDD and BDD techniques and CI / CD. My daily plan is to study something or create something to get me on the edge with technologies, methods and feel that my knowledge advance. I believe that a developer is a role that continues to evolve himself to keep his passion high. I'm also very involved on open-source projects and community activities in many programming languages and different size scale of project."
           ]
         ]
       },
