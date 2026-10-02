@@ -308,24 +308,6 @@
           ],
           [
             {
-              "bold": "Matteo Bertini"
-            },
-            ": Programming has been a passion since the days of his first computer, a 386DX-40 (in economics, it was in a cardboard box)."
-          ],
-          [
-            "He started by editing gorilla.bas, then he switched from Visual Basic, PHP, and Java to get to Python. He is now on an R&D team working on optimization algorithms."
-          ],
-          [
-            "Finding patterns and beautiful architectures in the software remains his passion, and also experimenting with new languages (Rust and Elm currently)."
-          ],
-          [
-            {
-              "bold": "Pietro Lorefice"
-            },
-            ": Embedded software developer with a soft spot for bare metal and OS programming, firmware development and real-time systems, and a lifelong interest in electronics and FPGA design."
-          ],
-          [
-            {
               "bold": "Aurélien Rainone"
             },
             ": Aurélien loves science, travel, comics, and science fiction books. In the field of programming, he enjoys contributing to the world of open-source and writing clean, readable, and elegant code."
@@ -373,24 +355,6 @@
               "bold": "Pietro Lorefice"
             },
             ": Embedded software developer with a soft spot for bare metal and OS programming, firmware development and real-time systems, and a lifelong interest in electronics and FPGA design."
-          ],
-          [
-            {
-              "bold": "Aurélien Rainone"
-            },
-            ": Aurélien loves science, travel, comics, and science fiction books. In the field of programming, he enjoys contributing to the world of open-source and writing clean, readable, and elegant code."
-          ],
-          [
-            "His philosophy can be summed up in two aphorisms:"
-          ],
-          [
-            "“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.” – Antoine de Saint-Exupéry"
-          ],
-          [
-            "“The perfect is the enemy of the good.” – Voltaire"
-          ],
-          [
-            "Aurélien also serves as a tutor for the Go, C++ modern, and C++ advanced courses."
           ],
           [
             {
