@@ -1,0 +1,406 @@
+{
+  "conference_year": 2026,
+  "golab_form": "https://forms.gle/wJbmsAmNWaL7ow1w7",
+  "rustlab_form": "https://forms.gle/nTtuHF5sVSe8CxKh8",
+  "content": {
+    "feedback": {
+      "paragraphs": [
+        [
+          "Thank you for attending the conferences. We hope your stay was enjoyable and that you found the talks informative and the workshops engaging."
+        ],
+        [
+          "We kindly ask if you could take a few moments to leave your feedback. ",
+          {
+            "bold": "Your opinion is highly valued"
+          },
+          " and will help us improve future conferences, ensuring they are even more beneficial and enjoyable for all attendees."
+        ],
+        [
+          "Thank you very much for your time. ",
+          {
+            "bold": "We greatly appreciate your support"
+          },
+          " and look forward to seeing you at future events."
+        ]
+      ],
+      "golab_label": "GoLab\nFeedback Form",
+      "rustlab_label": "RustLab\nFeedback Form"
+    },
+    "about_develer": {
+      "paragraphs": [
+        [
+          {
+            "bold": "GoLab"
+          },
+          " and ",
+          {
+            "bold": "RustLab"
+          },
+          " are conferences made by ",
+          {
+            "bold": "Develer"
+          },
+          "."
+        ],
+        [
+          {
+            "bold": "Develer"
+          },
+          " is a company based in ",
+          {
+            "bold": "Campi Bisenzio"
+          },
+          ", near ",
+          {
+            "bold": "Florence"
+          },
+          ". Our motto is : \"",
+          {
+            "bold": "Technology to give life to your products"
+          },
+          "\"."
+        ],
+        [
+          "We produce ",
+          {
+            "bold": "hardware"
+          },
+          " and ",
+          {
+            "bold": "software"
+          },
+          " to create exceptional products and to improve industrial processes and people's well being."
+        ],
+        [
+          "In Develer we have passion for the ",
+          {
+            "bold": "new technologies"
+          },
+          " and we offer our clients effective solutions that are also ",
+          {
+            "bold": "efficient, simple and safe"
+          },
+          " for the end users."
+        ],
+        [
+          "We also believe in a ",
+          {
+            "bold": "friendly"
+          },
+          " and ",
+          {
+            "bold": "welcoming"
+          },
+          " environment where anybody can give their contribution. This passion and this vision are what we've been driven to organize our conference \"",
+          {
+            "bold": "made by developers for developers"
+          },
+          "\"."
+        ]
+      ],
+      "link_label": "Go to Develer's Website",
+      "link_url": "http://www.develer.com/en/"
+    },
+    "about_golab": [
+      [
+        {
+          "bold": "GoLab"
+        },
+        " was born in 2015 from an idea of ",
+        {
+          "bold": "Mena"
+        },
+        " and ",
+        {
+          "bold": "Matteo"
+        },
+        ", and ever since they've been working tirelessly with great passion and dedication to make GoLab a truly international event. From a small Italian Go study day in 2015, they've managed to bring some of the biggest international Go stars to Florence."
+      ],
+      [
+        "In 2017, ",
+        {
+          "bold": "Andy"
+        },
+        " joined the team and immediately felt at home, becoming friends with many of the gophers. Then in 2019, one of GoLab's speakers, ",
+        {
+          "bold": "Aurélien"
+        },
+        ", a passionate French Go contributor and gopher, became part of the organization."
+      ],
+      [
+        "There were some new additions to the team as well, such as ",
+        {
+          "bold": "Niccolò"
+        },
+        ", who's part of the editorial team, ",
+        {
+          "bold": "Morgan"
+        },
+        ", the enthusiastic videomaker and all-around jack-of-all-trades, and ",
+        {
+          "bold": "Ambra"
+        },
+        ", their trusty travel assistant. Last but not least, ",
+        {
+          "bold": "Elisa"
+        },
+        " joined the team as a content editor for the social media channels."
+      ],
+      [
+        "It's been an incredible journey so far!"
+      ],
+      [
+        {
+          "bold": "{{conference_year}} UPDATE:"
+        },
+        " at the end of the 2023 edition ",
+        {
+          "bold": "Aurélien"
+        },
+        " left our team because he was busier with other projects. We would like to wish him all the best hoping this farewell won't be a \"goodbye\" but ",
+        {
+          "bold": "\"au revoir\""
+        },
+        "!"
+      ]
+    ],
+    "about_rustlab": [
+      [
+        "Established in 2019, ",
+        {
+          "bold": "RustLab"
+        },
+        " is one of the most renowned conferences in the world, attracting a large audience of ",
+        {
+          "bold": "Rustaceans"
+        },
+        " from all over the globe."
+      ],
+      [
+        "In the last years, we have had the privilege of hosting some of the ",
+        {
+          "bold": "biggest names"
+        },
+        " in the industry who have shared their insights and experiences with our attendees."
+      ],
+      [
+        "At ",
+        {
+          "bold": "RustLab"
+        },
+        ", we believe that learning should be a ",
+        {
+          "bold": "fun and engaging experience"
+        },
+        ", which is why we've designed our conference to be \"made by developers for developers\"."
+      ],
+      [
+        "Join us for an unforgettable experience that will inspire you!"
+      ]
+    ],
+    "the_people_behind": [
+      [
+        {
+          "bold": "GoLab"
+        },
+        " was born in 2015 from an idea of ",
+        {
+          "bold": "Mena"
+        },
+        " and ",
+        {
+          "bold": "Matteo"
+        },
+        ", and ever since they've been working tirelessly with great passion and dedication to make GoLab a truly international event. From a small Italian Go study day in 2015, they've managed to bring some of the biggest international Go stars to Florence."
+      ],
+      [
+        "In 2017, ",
+        {
+          "bold": "Andy"
+        },
+        " joined the team and immediately felt at home, becoming friends with many of the gophers. Then in 2019, one of GoLab's speakers, ",
+        {
+          "bold": "Aurélien"
+        },
+        ", a passionate French Go contributor and gopher, became part of the organization."
+      ],
+      [
+        "There were some new additions to the team as well, such as ",
+        {
+          "bold": "Niccolò"
+        },
+        ", who's part of the editorial team, ",
+        {
+          "bold": "Morgan"
+        },
+        ", the enthusiastic videomaker and all-around jack-of-all-trades, and ",
+        {
+          "bold": "Ambra"
+        },
+        ", their trusty travel assistant. Last but not least, ",
+        {
+          "bold": "Elisa"
+        },
+        " joined the team as a content editor for the social media channels."
+      ],
+      [
+        "It's been an incredible journey so far!"
+      ],
+      [
+        {
+          "bold": "{{conference_year}} UPDATE:"
+        },
+        " at the end of the 2023 edition ",
+        {
+          "bold": "Aurélien"
+        },
+        " left our team because he was busier with other projects. We would like to wish him all the best hoping this farewell won't be a \"goodbye\" but \"au revoir\"!"
+      ]
+    ],
+    "organization_sections": [
+      {
+        "title": "Organized by Develer",
+        "paragraphs": [
+          [
+            "GoLab and RustLab are created and run by Develer, a Florence-area tech company with a long tradition of building products and sharing knowledge with developer communities."
+          ]
+        ]
+      },
+      {
+        "title": "Event Manager",
+        "paragraphs": [
+          [
+            {
+              "bold": "Mena"
+            },
+            " — Founder and conference chair. Mena leads vision, program curation, partnerships, and every detail that turns our events into a welcoming experience for developers."
+          ]
+        ]
+      },
+      {
+        "title": "Operations & Production",
+        "paragraphs": [
+          [
+            {
+              "bold": "Andy"
+            },
+            " — Back office and event assistant."
+          ],
+          [
+            {
+              "bold": "Ambra"
+            },
+            " — Travel & speaker logistics."
+          ],
+          [
+            {
+              "bold": "Morgan"
+            },
+            " — Video production & on-site media."
+          ]
+        ]
+      },
+      {
+        "title": "GoLab Tech-Scientific Committee",
+        "paragraphs": [
+          [
+            "Ensures technical depth and quality across talks and workshops."
+          ],
+          [
+            {
+              "bold": "• Aurélien Rainone"
+            },
+            " • ",
+            {
+              "bold": "Tommaso Visconti"
+            },
+            " • ",
+            {
+              "bold": "Lorenzo Masini"
+            },
+            " • ",
+            {
+              "bold": "Marco Lucidi"
+            }
+          ]
+        ]
+      },
+      {
+        "title": "RustLab Tech-Scientific Committee",
+        "paragraphs": [
+          [
+            "Guides content selection and reviews proposals for rigor and relevance."
+          ],
+          [
+            {
+              "bold": "• Pietro Lorefice"
+            },
+            " • ",
+            {
+              "bold": "Daniele D'Orazio"
+            },
+            " • ",
+            {
+              "bold": "Daniele Basile"
+            },
+            " • ",
+            {
+              "bold": "Giuseppe Chiarella"
+            },
+            " • ",
+            {
+              "bold": "Marco Meloni"
+            }
+          ]
+        ]
+      },
+      {
+        "title": "Made by developers, for developers",
+        "paragraphs": [
+          [
+            "Both conferences reflect Develer's culture: practical, inclusive, and community-driven. You'll spot our “yellow t-shirts” on site—please come say hi!"
+          ]
+        ]
+      }
+    ],
+    "organizers": [
+      {
+        "id": "mena",
+        "name": "Mena",
+        "pronouns": "she/her",
+        "role": "Conference Chair",
+        "work_role": "Event Manager",
+        "work_place": "Develer",
+        "bio": [
+          "With over a decade of experience at Develer, GoLab and RustLab are like Mena's beloved creations.",
+          "After delving into the world of luxury and fashion for a few years, she ventured into the realm of IT and electronics — and discovered an environment that is both tranquil and intellectually stimulating.",
+          "She meticulously plans every detail of her events, from crafting marketing strategies to designing stylish t-shirts. You'll find her personal touch in the appreciated badges, as well as in the whimsical characters of them."
+        ]
+      },
+      {
+        "id": "ambra",
+        "name": "Ambra",
+        "pronouns": "she/her",
+        "role": "Travel Assistant",
+        "work_role": "Office Assistant",
+        "work_place": "Develer",
+        "bio": [
+          "After working as a travel agent and then as a saleswoman in an embroidery factory, Ambra found in Develer a working environment in which she could grow and improve, taking advantage of her old skills while acquiring new ones every day.",
+          "Always curious and searching for inspiration, she loves good music and tv shows as much as the smell of books and the camera shutter sound."
+        ]
+      },
+      {
+        "id": "morgan",
+        "name": "Morgan",
+        "pronouns": "he/him",
+        "role": "Videomaker",
+        "work_role": "Facility Officer",
+        "work_place": "Develer",
+        "bio": [
+          "He is a smooth blend of passion and art, computer technician and video maker, with a background as an actor and singer.",
+          "He usually says that life is a heartbeat, you have to experience as many things as possible."
+        ]
+      }
+    ]
+  }
+}
